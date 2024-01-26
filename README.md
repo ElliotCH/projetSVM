@@ -17,3 +17,5 @@
 | Sulphates             | Niveau de sulfates, influençant la fermentation et le goût du vin. |
 | Alcohol               | Le pourcentage d'alcool dans le vin. |
 | Quality               | La note de qualité attribuée au vin, sur une échelle de 0 à 10. |
+
+Elliot 
